@@ -1,2 +1,3 @@
 # ML-Support-Vector-Machines
-Durham College AI Algorithms
+
+Predicting customer churn.
